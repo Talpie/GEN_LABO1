@@ -37,7 +37,7 @@ public class Exemple {
 			result = a;
 		}
 		public void plusGrand(){
-			nom = "Toto";
+			nom = "Michel";
 		}
 		public void plusPetit(){
 			nom = "Jean";
